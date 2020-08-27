@@ -2,31 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b34e4efe-fad6-4704-8720-193766854fca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/DeleteProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/HbaseDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zookeeper/druid_configuration/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zookeeper/druid_configuration/.idea/dictionaries/Administrator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zookeeper/druid_configuration/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zookeeper/druid_configuration/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zookeeper/druid_configuration/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zookeeper/druid_configuration/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zookeeper/druid_configuration/src/main/java/com/study/SpringbootDruidApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zookeeper/druid_configuration/src/main/java/com/study/config/DruidConfigration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zookeeper/druid_configuration/src/main/java/com/study/config/DruidFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zookeeper/druid_configuration/src/main/java/com/study/config/DruidServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zookeeper/druid_configuration/src/main/java/com/study/config/RuntimeContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zookeeper/druid_configuration/src/main/java/com/study/config/ZkStrSerializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zookeeper/druid_configuration/src/main/java/com/study/controller/StudentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zookeeper/druid_configuration/src/main/java/com/study/dao/StudentMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zookeeper/druid_configuration/src/main/java/com/study/entity/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zookeeper/druid_configuration/src/main/java/com/study/service/StudentServiceIF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zookeeper/druid_configuration/src/main/java/com/study/service/StudentServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zookeeper/druid_configuration/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zookeeper/druid_configuration/src/main/resources/druid-bean.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zookeeper/druid_configuration/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zookeeper/druid_configuration/src/main/resources/mapper/StudentMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zookeeper/druid_configuration/src/main/resources/static/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zookeeper/druid_configuration/src/test/java/com/study/SpringbootDruidApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../阶段二作业/模块一/redis_client/src/main/java/com/study/redis/redisClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -57,10 +34,10 @@
     <session id="1318871384">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.4" value="2" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.4" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -78,11 +55,13 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="java" value="2" />
+          <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JAVA" value="2" />
+          <entry key="XML" value="1" />
         </counts>
       </usages-collector>
     </session>
@@ -92,8 +71,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/study/HbaseDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="335">
-              <caret line="139" column="30" lean-forward="true" selection-start-line="139" selection-start-column="30" selection-end-line="139" selection-end-column="30" />
+            <state relative-caret-position="2470">
+              <caret line="139" column="30" selection-start-line="139" selection-start-column="30" selection-end-line="139" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/study/DeleteProcessor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="663">
+              <caret line="68" column="13" selection-start-line="68" selection-start-column="13" selection-end-line="68" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -102,13 +93,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/study/DeleteProcessor.java">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="662">
-              <caret line="68" column="13" lean-forward="true" selection-start-line="68" selection-start-column="13" selection-end-line="68" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="190">
+              <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -128,9 +116,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/study/DeleteProcessor.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/study/HbaseDemo.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -165,7 +153,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="358" />
+    <option name="x" value="518" />
+    <option name="y" value="59" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -198,6 +187,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -240,8 +231,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -301,21 +290,23 @@
       <workItem from="1597755112623" duration="5913000" />
       <workItem from="1597846823902" duration="3648000" />
       <workItem from="1597892208407" duration="5327000" />
+      <workItem from="1598454861099" duration="841000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14888000" />
+    <option name="totallyTimeSpent" value="15729000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.15724947" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.15884861" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32899022" />
       <window_info anchor="bottom" id="Version Control" order="1" show_stripe_button="false" />
@@ -348,17 +339,10 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/study/HbaseDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="139" column="30" lean-forward="true" selection-start-line="139" selection-start-column="30" selection-end-line="139" selection-end-column="30" />
+        <state relative-caret-position="2470">
+          <caret line="139" column="30" selection-start-line="139" selection-start-column="30" selection-end-line="139" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -367,11 +351,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/study/DeleteProcessor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="662">
-          <caret line="68" column="13" lean-forward="true" selection-start-line="68" selection-start-column="13" selection-end-line="68" selection-end-column="13" />
+        <state relative-caret-position="663">
+          <caret line="68" column="13" selection-start-line="68" selection-start-column="13" selection-end-line="68" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="18" />
         </state>
       </provider>
     </entry>
